@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Mudit Jha</title>
+	<atom:link href="https://https://codercs50.github.io/Website/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://codercs50.github.io/Website</link>
+	<description>Personal Site &#38; Blog</description>
+	<lastBuildDate>Sat, 29 Jan 2022 23:14:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://https://codercs50.github.io/Website/wp-content/uploads/2022/01/cropped-LOGONew-32x32.png</url>
+	<title>Uncategorized &#8211; Mudit Jha</title>
+	<link>https://https://codercs50.github.io/Website</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Why you don’t have to be a genius to show your work!</title>
+		<link>https://https://codercs50.github.io/Website/2022/01/22/hello-world/</link>
+					<comments>https://https://codercs50.github.io/Website/2022/01/22/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[mudit]]></dc:creator>
+		<pubDate>Sat, 22 Jan 2022 18:54:19 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http:/?p=1</guid>
+
+					<description><![CDATA[<p><img width="1102" height="820" src="https://https://codercs50.github.io/Website/wp-content/uploads/2022/01/Greenery_photo.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="https://https://codercs50.github.io/Website/wp-content/uploads/2022/01/Greenery_photo.jpg 1102w, https://https://codercs50.github.io/Website/wp-content/uploads/2022/01/Greenery_photo-300x223.jpg 300w, https://https://codercs50.github.io/Website/wp-content/uploads/2022/01/Greenery_photo-1024x762.jpg 1024w, https://https://codercs50.github.io/Website/wp-content/uploads/2022/01/Greenery_photo-768x571.jpg 768w" sizes="(max-width: 1102px) 100vw, 1102px" /></p>There is a myth that people like to believe which is that &#8211; all the geniuses in history are lone geniuses who came up with revolutionary ideas and breakthroughs all on their own. Isolated from the world, working alone all day in a lab. This is almost never the case, these people have been surrounded [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://https://codercs50.github.io/Website/2022/01/22/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
